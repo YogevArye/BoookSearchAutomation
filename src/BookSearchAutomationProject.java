@@ -17,6 +17,8 @@ import java.util.List;
         System.setProperty(webDriver, webDriverC);
         WebDriver driver = new ChromeDriver();
 
+
+
         //We can give up this row, code will run anyway, but it opens the browser if you want to see it running on the browser.
         driver.manage().window().maximize();
         driver.get(awsUrlWithFilter);
