@@ -10,8 +10,7 @@ The code performs the following, in this order:
 •	Checking which book has the longest title, by using the 'getLongestTitle' method.
 
 Files
-1. Folder named 'Automation'- this folder contains JAR files and Selenium driver.
-2. Java files.
+Java files
 
 
 
